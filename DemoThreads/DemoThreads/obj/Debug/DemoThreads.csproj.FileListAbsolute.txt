@@ -1,0 +1,11 @@
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\bin\Debug\DemoThreads.exe.config
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\bin\Debug\DemoThreads.exe
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\bin\Debug\DemoThreads.pdb
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\obj\Debug\DemoThreads.csproj.AssemblyReference.cache
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\obj\Debug\DemoThreads.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\obj\Debug\DemoThreads.Frm_DemoThread.resources
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\obj\Debug\DemoThreads.Properties.Resources.resources
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\obj\Debug\DemoThreads.csproj.GenerateResource.cache
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\obj\Debug\DemoThreads.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\obj\Debug\DemoThreads.exe
+C:\Users\Lucas Magalhães\Desktop\DemoThreads\DemoThreads\obj\Debug\DemoThreads.pdb
